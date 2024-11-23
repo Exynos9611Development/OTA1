@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1732368789,
+      "filename": "lineage-22.0-20241123-UNOFFICIAL-f41.zip",
+      "id": "0a4c544db6859c834ca95dcdbf394bee1be9d4351dbdb39b5068d0f0e1dc8995",
+      "romtype": "UNOFFICIAL",
+      "size": 979419182,
+      "url": "https://github.com/Exynos9611Development/OTA/releases/download/20241123/lineage-22.0-20241123-UNOFFICIAL-f41.zip",
+      "version": "22.0"
+    }
+  ]
+}
