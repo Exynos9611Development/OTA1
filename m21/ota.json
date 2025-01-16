@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1732371562,
-      "filename": "lineage-22.0-20241123-UNOFFICIAL-m21.zip",
-      "id": "b4d2fdcec156ae859a2ae76c29efb18548752dcf4b7e27cc66c349aac0b0e0d2",
+      "datetime": 1737020105,
+      "filename": "lineage-22.1-20250116-UNOFFICIAL-m21.zip",
+      "id": "b4b436dbc2ad4c31f6e3f0fdecc2b75134c6c1128578a7d23e211a7525d69672",
       "romtype": "UNOFFICIAL",
-      "size": 980156271,
-      "url": "https://github.com/Exynos9611Development/OTA/releases/download/20241123/lineage-22.0-20241123-UNOFFICIAL-m21.zip",
-      "version": "22.0"
+      "size": 978218887,
+      "url": "https://github.com/Exynos9611Development/OTA/releases/download/20250116/lineage-22.1-20250116-UNOFFICIAL-m21.zip",
+      "version": "22.1"
     }
   ]
 }
