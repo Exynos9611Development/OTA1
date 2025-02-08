@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1737018317,
-      "filename": "lineage-22.1-20250116-UNOFFICIAL-f41.zip",
-      "id": "0428aa5d9a3b40f5f32bc13006c1a1c5bc4174506f1c28d5ede078674e2640fa",
+      "datetime": 1739004641,
+      "filename": "lineage-22.1-20250208-UNOFFICIAL-f41.zip",
+      "id": "f510c946f57e178660e66ed8984aea6634902b317ef0f963711ffb8e76f7cd4f",
       "romtype": "UNOFFICIAL",
-      "size": 977562210,
-      "url": "https://github.com/Exynos9611Development/OTA/releases/download/20250116/lineage-22.1-20250116-UNOFFICIAL-f41.zip",
+      "size": 980939700,
+      "url": "https://github.com/Exynos9611Development/OTA/releases/download/20250208/lineage-22.1-20250208-UNOFFICIAL-f41.zip",
       "version": "22.1"
     }
   ]
